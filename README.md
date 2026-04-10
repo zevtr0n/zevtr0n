@@ -3,8 +3,7 @@
 **Python Full Stack Developer**  
 **AWS Academy Cloud Foundations Certified**
 
-https://zevtr0n.github.io/
-
+Portfolio: https://zevtr0n.github.io
 ---
 
 ## About Me
