@@ -16,7 +16,8 @@ I focus on building web applications, APIs, and cloud-based solutions using mode
 
 - Python  
 - Flask / Django  
-- REST APIs  
+- REST APIs
+- PHP
 - MySQL  
 - AWS  
 - Git & GitHub  
