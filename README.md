@@ -1,14 +1,38 @@
 # Pedro Cauan Ferreira Araújo Dantas
 
-Python Full Stack Developer | AWS Academy Cloud Foundations Certified
+**Python Full Stack Developer**  
+**AWS Academy Cloud Foundations Certified**
+
+---
 
 ## About Me
-I am a Full Stack Python Developer focused on full stack development, APIs, and cloud computing.
+
+I am a Python Full Stack Developer with certification in AWS Cloud Foundations.  
+I focus on building web applications, APIs, and cloud-based solutions using modern technologies.
+
+---
 
 ## Skills
-- Python
-- Flask / Django
-- REST APIs
-- MySQL
-- AWS 
-- Git & GitHub
+
+- Python  
+- Flask / Django  
+- REST APIs  
+- MySQL  
+- AWS  
+- Git & GitHub  
+
+---
+
+## Projects
+
+### Flaskchat
+Real-time chat application built with Flask and Socket.IO, supporting instant messaging and interactive communication.
+
+### SuperSelect
+Interactive supermarket web application developed with Flask, focused on user interaction and dynamic content.
+
+---
+
+## Contact
+
+- GitHub: https://github.com/zevtr0n
